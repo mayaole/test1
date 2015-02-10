@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //添加xx
+        //添加xx
 }
 
 - (void)didReceiveMemoryWarning {
